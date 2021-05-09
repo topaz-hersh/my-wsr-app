@@ -21,7 +21,8 @@
     "@stylable/runtime": "^4.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "wix-style-react": "^9.111.0"
+    "wix-style-react": "^9.111.0",
+    "wix-ui-icons-common": "^2.0.315"
   },
   "devDependencies": {
     "@stylable/core": "^4.1.1",
